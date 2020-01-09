@@ -5,7 +5,7 @@ L’objectiu general de la pràctica consisteix en desenvolupar un chatbot que p
 
 ## Comencem
 
-Aquestes instruccions et serviran per obtenir una copia del projecte i per poder-lo executar amb objectius de desenvolupament o testeig. Vegi l'apartat deployment per saber com fer deploy del projecte en un sistema real.
+Aquestes instruccions et serviran per obtenir una copia del projecte i per poder-lo executar amb objectius de desenvolupament o testeig. 
 
 ### Prerequisits
 
