@@ -1,0 +1,14 @@
+#
+###### Requeriments sense versió específica ######
+matplotlib
+networkx
+pickle
+python-telegram-bot
+
+#
+###### Requeriments amb versió específica ######
+Antlr4 						#Minim
+#
+###### Altres requeriments ######
+Cal haver generat un graph al fitxer test.gpickle abans d'executar el bot
+#
